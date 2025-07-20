@@ -8,8 +8,6 @@
 
 I’m currently pursuing a degree in **Aerospace Engineering**.  
 My interests include:
-- Aircraft propulsion systems
-- Thermodynamics & CFD
 - Aerospace design & simulations
 
 I believe in learning by building — and I’m on a mission to explore the tools that shape modern engineering.
