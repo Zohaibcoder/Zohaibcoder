@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Zohaib Imtiaz
 
-<!--
-**Zohaibcoder/Zohaibcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Aerospace Engineer | Student | Code & Curiosity Driven
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m currently pursuing a degree in **Aerospace Engineering**.  
+My interests include:
+- Aircraft propulsion systems
+- Thermodynamics & CFD
+- Aerospace design & simulations
+
+I believe in learning by building — and I’m on a mission to explore the tools that shape modern engineering.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Programming**: Python (NumPy, Matplotlib), MATLAB
+- **CAD & Simulation**: SolidWorks, ANSYS (Basics)
+- **Others**: Git, GitHub, LaTeX (Reports & Docs)
+
+---
+
+## 🎯 Current Learning Goals
+
+- Mastering **Python for Aerospace**
+- Getting hands-on with **MATLAB simulations**
+- Building CFD basics for jet engines
+- Starting small aerospace-related projects
+
+---
+
+## 📬 Connect with Me
+
+- 📧 **Email**: [zohaib77malik@gmail.com](mailto:zohaib77malik@gmail.com)
+- 🔗 **ORCID**: [0009-0005-6757-1611](https://orcid.org/0009-0005-6757-1611)
+
+
+---
+
+_“Sky is not the limit—it’s just the beginning.”_
