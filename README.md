@@ -16,7 +16,7 @@ I believe in learning by building — and I’m on a mission to explore the tool
 
 ## 🛠️ Tools & Technologies
 
-- **Programming**: Python (NumPy, Matplotlib), MATLAB
+- **Programming**:  MATLAB
 - **CAD & Simulation**: SolidWorks, ANSYS (Basics)
 - **Others**: Git, GitHub, LaTeX (Reports & Docs)
 
@@ -24,7 +24,7 @@ I believe in learning by building — and I’m on a mission to explore the tool
 
 ## 🎯 Current Learning Goals
 
-- Mastering **Python for Aerospace**
+- Mastering **MATLAB for Aerospace**
 - Getting hands-on with **MATLAB simulations**
 - Building CFD basics for jet engines
 - Starting small aerospace-related projects
