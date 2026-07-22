@@ -17,8 +17,8 @@ Every project starts with handwritten derivations, moves through MATLAB analysis
 | 01 | Mass-Spring-Damper Analysis | ✅ Complete |
 | 02 | DC Motor Modeling | ✅ Complete |
 | 03 | PID Speed Control | ✅ Complete |
-| 04 | Aircraft Pitch Control | 🔄 In Progress |
-| 05 | Root Locus Design | ⏳ Upcoming |
+| 04 | Aircraft Pitch Control | ✅ In Progress |
+| 05 | Root Locus Design | 🔄 Upcoming |
 | 06 | Bode & Nyquist Analysis | ⏳ Upcoming |
 | 07 | State-Space Modeling | ⏳ Upcoming |
 | 08 | Pole Placement | ⏳ Upcoming |
