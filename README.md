@@ -14,23 +14,26 @@ Every project starts with handwritten derivations, moves through MATLAB analysis
 
 | # | Project | Status |
 |---|---|---|
-| 01 | Mass-Spring-Damper Analysis | ✅ Complete |
-| 02 | DC Motor Modeling | ✅ Complete |
-| 03 | PID Speed Control | ✅ Complete |
-| 04 | Aircraft Pitch Control | ✅ In Progress |
-| 05 | Root Locus Design | 🔄 Upcoming |
-| 06 | Bode & Nyquist Analysis | ⏳ Upcoming |
-| 07 | State-Space Modeling | ⏳ Upcoming |
-| 08 | Pole Placement | ⏳ Upcoming |
-| 09 | LQR Optimal Control | ⏳ Upcoming |
-| 10 | Kalman Filter | ⏳ Upcoming |
-| 11 | UAV Attitude Control | ⏳ Upcoming |
-| 12 | Rocket Attitude Control | ⏳ Upcoming |
-| 13 | Satellite Attitude Control | ⏳ Upcoming |
-| 14 | Missile Guidance | ⏳ Upcoming |
-| 15 | Complete Flight Control System | ⏳ Upcoming |
-
+| 01 | Mass–Spring–Damper System Analysis | ✅ Complete |
+| 02 | DC Motor Mathematical Modeling | ✅ Complete |
+| 03 | PID Speed Control of DC Motor | ✅ Complete |
+| 04 | Aircraft Pitch Control System | ✅ Complete |
+| 05 | Root Locus Analysis of Aircraft Pitch Control | ✅ Complete |
+| 06 | Lead Compensator Design and Investigation | ✅ Complete |
+| 07 | Lead–Lag Compensator Design | 🔄 In Progress |
+| 08 | Frequency Response Analysis | ⏳ Planned |
+| 09 | State-Space Modeling of Aircraft Dynamics | ⏳ Planned |
+| 10 | Pole Placement Control | ⏳ Planned |
+| 11 | LQR Optimal Control | ⏳ Planned |
+| 12 | Kalman Filter Design | ⏳ Planned |
+| 13 | UAV Attitude Control System | ⏳ Planned |
+| 14 | Rocket Attitude Control System | ⏳ Planned |
+| 15 | Satellite Attitude Determination and Control | ⏳ Planned |
+| 16 | Missile Guidance and Control | ⏳ Planned |
+| 17 | Integrated Flight Control System | ⏳ Planned |
+ 
 ---
+
 
 **Tools:** MATLAB · Simulink · SolidWorks · Git · GitHub
 
