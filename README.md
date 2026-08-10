@@ -20,9 +20,9 @@ Every project starts with handwritten derivations, moves through MATLAB analysis
 | 04 | Aircraft Pitch Control System | ✅ Complete |
 | 05 | Root Locus Analysis of Aircraft Pitch Control | ✅ Complete |
 | 06 | Lead Compensator Design and Investigation | ✅ Complete |
-| 07 | Lead–Lag Compensator Design | 🔄 In Progress |
-| 08 | Frequency Response Analysis | ⏳ Planned |
-| 09 | State-Space Modeling of Aircraft Dynamics | ⏳ Planned |
+| 07 | Lead–Lag Compensator Design | ✅ Complete |
+| 08 | Frequency Response Analysis | ✅ Complete |
+| 09 | State-Space Modeling of Aircraft Dynamics | 🔄 In Progress |
 | 10 | Pole Placement Control | ⏳ Planned |
 | 11 | LQR Optimal Control | ⏳ Planned |
 | 12 | Kalman Filter Design | ⏳ Planned |
