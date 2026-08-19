@@ -22,10 +22,10 @@ Every project starts with handwritten derivations, moves through MATLAB analysis
 | 06 | Lead Compensator Design and Investigation | ✅ Complete |
 | 07 | Lead–Lag Compensator Design | ✅ Complete |
 | 08 | Frequency Response Analysis | ✅ Complete |
-| 09 | State-Space Modeling of Aircraft Dynamics | 🔄 In Progress |
-| 10 | Pole Placement Control | ⏳ Planned |
-| 11 | LQR Optimal Control | ⏳ Planned |
-| 12 | Kalman Filter Design | ⏳ Planned |
+| 09 | State-Space Modeling of Aircraft Dynamics | ✅  Complete |
+| 10 | Pole Placement Control | ✅  Complete |
+| 11 | LQR Optimal Control | ✅  Complete |
+| 12 | Kalman Filter Design | 🔄 In Progress |
 | 13 | UAV Attitude Control System | ⏳ Planned |
 | 14 | Rocket Attitude Control System | ⏳ Planned |
 | 15 | Satellite Attitude Determination and Control | ⏳ Planned |
