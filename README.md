@@ -25,8 +25,8 @@ Every project starts with handwritten derivations, moves through MATLAB analysis
 | 09 | State-Space Modeling of Aircraft Dynamics | ✅  Complete |
 | 10 | Pole Placement Control | ✅  Complete |
 | 11 | LQR Optimal Control | ✅  Complete |
-| 12 | Kalman Filter Design | 🔄 In Progress |
-| 13 | UAV Attitude Control System | ⏳ Planned |
+| 12 | Kalman Filter Design | ✅  Complete  |
+| 13 | UAV Attitude Control System | 🔄 In Progress |
 | 14 | Rocket Attitude Control System | ⏳ Planned |
 | 15 | Satellite Attitude Determination and Control | ⏳ Planned |
 | 16 | Missile Guidance and Control | ⏳ Planned |
