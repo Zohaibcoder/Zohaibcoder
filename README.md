@@ -13,9 +13,9 @@ report. **12 of 17 projects complete as of August 2026.**
 ---
 
 ## 🔭 Featured Projects
-- **[LQR Optimal Control](link)** — interactive Q/R tuner built in App Designer
-- **[Kalman Filter Design](link)** — manual predict-correct loop vs. MATLAB's `kalman()`
-- **[State-Space Modeling](link)** — aircraft pitch dynamics, foundation for 10–12
+- **[LQR Optimal Control](https://github.com/Zohaibcoder/control-systems-project-11)** — interactive Q/R tuner built in App Designer
+- **[Kalman Filter Design](https://github.com/Zohaibcoder/control-systems-project-12)** — manual predict-correct loop vs. MATLAB's `kalman()`
+- **[State-Space Modeling](https://github.com/Zohaibcoder/control-systems-project-09)** — aircraft pitch dynamics, foundation for 10–12
 - ...
 
 ## 🗺️ Full Roadmap — Summer 2026
