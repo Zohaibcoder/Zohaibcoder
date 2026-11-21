@@ -2,7 +2,7 @@
 
 🚀 Aerospace Engineering Student | Control Systems | MATLAB & Simulink
 
-I'm a 4th semester Aerospace Engineering student at the Institute of Space
+I'm a 5th semester Aerospace Engineering student at the Institute of Space
 Technology, building a complete control systems portfolio independently —
 from first principles to full aerospace flight control systems.
 
