@@ -8,7 +8,7 @@ from first principles to full aerospace flight control systems.
 
 Every project starts with a handwritten derivation, moves through MATLAB
 analysis and Simulink modeling, and ends with a professional engineering
-report. **12 of 17 projects complete as of August 2026.**
+report. **13 of 17 projects complete as of September 2026.**
 
 ---
 
@@ -33,7 +33,7 @@ report. **12 of 17 projects complete as of August 2026.**
 | 10 | Pole Placement Control | ✅  Complete |
 | 11 | LQR Optimal Control | ✅  Complete |
 | 12 | Kalman Filter Design | ✅  Complete  |
-| 13 | UAV Attitude Control System | 🔄 In Progress |
+| 13 | UAV Attitude Control System | ✅  Complete |
 | 14 | Rocket Attitude Control System | ⏳ Planned |
 | 15 | Satellite Attitude Determination and Control | ⏳ Planned |
 | 16 | Missile Guidance and Control | ⏳ Planned |
